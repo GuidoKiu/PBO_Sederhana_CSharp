@@ -1,0 +1,8 @@
+E:\Bantu Kawan\1. GEYMER + Yoland\Yolanda\Jane\Jane020622\Jane020622\bin\Debug\Jane020622.exe.config
+E:\Bantu Kawan\1. GEYMER + Yoland\Yolanda\Jane\Jane020622\Jane020622\bin\Debug\Jane020622.exe
+E:\Bantu Kawan\1. GEYMER + Yoland\Yolanda\Jane\Jane020622\Jane020622\bin\Debug\Jane020622.pdb
+E:\Bantu Kawan\1. GEYMER + Yoland\Yolanda\Jane\Jane020622\Jane020622\obj\Debug\Jane020622.exe
+E:\Bantu Kawan\1. GEYMER + Yoland\Yolanda\Jane\Jane020622\Jane020622\obj\Debug\Jane020622.pdb
+e:\Bantu Kawan\1. GEYMER + Yoland\Yolanda\Jane\Jane020622\Jane020622\obj\Debug\Jane020622.csproj.AssemblyReference.cache
+e:\Bantu Kawan\1. GEYMER + Yoland\Yolanda\Jane\Jane020622\Jane020622\obj\Debug\Jane020622.csproj.SuggestedBindingRedirects.cache
+e:\Bantu Kawan\1. GEYMER + Yoland\Yolanda\Jane\Jane020622\Jane020622\obj\Debug\Jane020622.csproj.CoreCompileInputs.cache
